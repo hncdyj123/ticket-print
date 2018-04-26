@@ -1,0 +1,161 @@
+{
+    "header": [
+        {
+            "text": "{companyName}",
+            "size": 12,
+            "font": "宋体",
+            "bold": true,
+            "line": true,
+            "x": "28",
+            "y": ""
+        },
+        {
+            "text": "会员编号:{merberNo}",
+            "size": 8,
+            "font": "宋体",
+            "bold": false,
+            "line": true,
+            "x": "20",
+            "y": ""
+        },
+        {
+            "text": "订单号:{orderNo}",
+            "size": 8,
+            "font": "宋体",
+            "bold": false,
+            "line": true,
+            "x": "20",
+            "y": ""
+        },
+        {
+            "text": "下单时间:{orderDate}",
+            "size": 8,
+            "font": "宋体",
+            "bold": false,
+            "line": true,
+            "x": "20",
+            "y": ""
+        },
+        {
+            "text": "打印时间:{printDate}",
+            "size": 8,
+            "font": "宋体",
+            "bold": false,
+            "line": true,
+            "x": "20",
+            "y": ""
+        }
+    ],
+    "gooods": [
+        {
+            "text": "名称",
+            "size": 8,
+            "font": "宋体",
+            "bold": true,
+            "line": false,
+            "x": "20",
+            "y": ""
+        },
+        {
+            "text": "单价",
+            "size": 8,
+            "font": "宋体",
+            "bold": true,
+            "line": false,
+            "x": "60",
+            "y": ""
+        },
+        {
+            "text": "数量",
+            "size": 8,
+            "font": "宋体",
+            "bold": true,
+            "line": false,
+            "x": "90",
+            "y": ""
+        },
+        {
+            "text": "小计",
+            "size": 8,
+            "font": "宋体",
+            "bold": true,
+            "line": false,
+            "x": "120",
+            "y": ""
+        }
+    ],
+    "footer": [
+        {
+            "text": "商品总数:{goodsCount}件",
+            "size": 8,
+            "font": "宋体",
+            "bold": false,
+            "line": false,
+            "x": "15",
+            "y": ""
+        },
+        {
+            "text": "合计金额:{totalmoney}元",
+            "size": 8,
+            "font": "宋体",
+            "bold": false,
+            "line": true,
+            "x": "80",
+            "y": ""
+        },
+        {
+            "text": "实收:{actualmoney}元",
+            "size": 8,
+            "font": "宋体",
+            "bold": false,
+	    "line": false,
+            "x": "15",
+            "y": ""
+        },
+        {
+            "text": "找零:{changemoney}元",
+            "size": 8,
+            "font": "宋体",
+            "bold": false,
+            "line": true,
+            "x": "80",
+            "y": ""
+        },
+		{
+            "text": "积分:{score}分",
+            "size": 8,
+            "font": "宋体",
+            "bold": false,
+            "line": false,
+            "x": "15",
+            "y": ""
+        },
+        {
+            "text": "操作员:{operatorname}",
+            "size": 8,
+            "font": "宋体",
+            "bold": false,
+            "line": true,
+            "x": "80",
+            "y": ""
+        },
+        {
+            "text": "地址:{address}",
+            "size": 8,
+            "font": "宋体",
+            "bold": false,
+            "line": true,
+            "x": "0",
+            "y": ""
+        },
+        {
+            "text": "钱票请当面点清，离开柜台恕不负责!",
+            "size": 8,
+            "font": "宋体",
+            "bold": true,
+            "line": true,
+            "x": "15",
+            "y": ""
+        }
+    ]
+}
